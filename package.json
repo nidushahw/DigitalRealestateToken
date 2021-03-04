@@ -1,0 +1,16 @@
+{
+  "name": "digitalrealestatetoken",
+  "version": "1.0.0",
+  "description": "Digital Real Estate Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle run coverage"
+  },
+  "author": "Nidusha Lakmali Hewawilladdara",
+  "license": "MIT",
+  "devDependencies": {
+    "solidity-coverage": "^0.7.14",
+    "truffle": "^5.1.63",
+    "truffle-assertions": "^0.9.2"
+  }
+}
